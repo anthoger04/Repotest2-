@@ -5,3 +5,5 @@
 nouvelle modif 
 
 1 2 3 hop hop hop 
+
+## prise de notes du cours : 
